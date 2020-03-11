@@ -1,0 +1,2 @@
+Um teste de unidade visa verificar pequenas unidades isoladas de código, enquanto um teste funcional visa testar o sistema como um todo;
+Os testes de unidade são fáceis e mais rápidos de escrever, enquanto os testes funcionais são mais complexos e frágeis.
